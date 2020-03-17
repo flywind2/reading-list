@@ -50,6 +50,15 @@ Online Materials: Somatic Mutations, Neoepitope Homology and Inflammation in Mel
 ###**13. OpenVax**  
 [OpenVax](https://github.com/openvax),OpenVax is a group at the Icahn School of Medicine at Mount Sinai. We’re developing an open source personalized cancer vaccine pipeline.  
 
+###**14. clonotypeR**  
+[clonotypeR](https://clonotyper.branchable.com/),Quantitative analysis of antigen receptor sequences. clonotypeR is a Bioconductor package and accompanying scripts to identify and analyse clonotypes from high-throughput T cell receptors sequence libraries. clonotypeR is suited to process and organise very large number of clonotypes, in the order of millions, typically produced by Roche 454 instruments, and to prepare these sequences for differential expression analysis with the typical transcriptomics tools as well as for statistical analysis using existing R packages. If you need to try alternative solutions, you can have a look at IMGTHighV-QUEST, Decombinator, MiTCR, MIGEC, MiXCR, LymAnalyzer, tcR, TraCeR, VDJviz, or VDJtools. See also the OMICtool website for a longer list of repertoire tools.  
+
+###**15. repseqio**  
+[repseqio](https://github.com/repseqio/repseqio),Utils for manipulations with RepSeq data. and the related RepSeq sample preparation protocols is [here](https://github.com/repseqio/protocols). 
+
+###**16. Orchestrating Single-Cell Analysis with Bioconductor**  
+[Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org/),a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq). This book will teach you how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore scRNA-seq data. 
+
 
 ##**Microsatellite instability**
 
