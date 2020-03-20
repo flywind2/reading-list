@@ -5,7 +5,7 @@
 
 3. *Tumor mutational burden as a predictive biomarker for checkpoint inhibitor immunotherapy.[link](https://www.ncbi.nlm.nih.gov/pubmed/31361563)* 
 
-4. *Combination of TMB and CNA Stratifies Prognostic and Predictive Responses to Immunotherapy Across Metastatic Cancer.[link](https://www.ncbi.nlm.nih.gov/pubmed/31515453)*
+4. *Combination of TMB and CNA Stratsifies Prognostic and Predictive Responses to Immunotherapy Across Metastatic Cancer.[link](https://www.ncbi.nlm.nih.gov/pubmed/31515453)*
 
 5. *Development of tumor mutation burden as an immunotherapy biomarker: utility for the oncology clinic.[link](https://www.ncbi.nlm.nih.gov/pubmed/30395155)*  
 
