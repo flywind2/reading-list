@@ -1,0 +1,1 @@
+1. Carreno BM, Magrini V, Becker-Hapak M, Kaabinejadian S, Hundal J, Petti AA, Ly A, Lie WR, Hildebrand WH, Mardis ER, Linette GP. Cancer immunotherapy. A dendritic cell vaccine increases the breadth and diversity of melanoma neoantigen-specific T cells. Science. 2015 May 15;348(6236):803-8. doi: 10.1126/science.aaa3828. Epub 2015 Apr 2. PMID: 25837513; PMCID: PMC4549796.
