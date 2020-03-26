@@ -1,0 +1,109 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js">
+<link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+<link rel="stylesheet" href="https://gitcdn.xyz/repo/goessner/mdmath/master/css/texmath.css">
+<link rel="stylesheet" href="https://gitcdn.xyz/repo/goessner/mdmath/master/css/vscode-texmath.css">
+
+</head><body>
+<p data-line="0" class="code-line"><em><strong>Immunogenicity Analysis of Somatic Mutations</strong></em></p>
+<ul>
+<li data-line="1" class="code-line">
+<ol>
+<li data-line="1" class="code-line"><strong>translated all mutations in exomes so strings of 17 amino acids were generated for the predicted wild type and mutant, with the amino acid resulting from the mutation situated centrally.</strong></li>
+</ol>
+</li>
+<li data-line="3" class="code-line">
+<ol start="2">
+<li data-line="3" class="code-line"><strong>evaluate MHC Class I binding, wild type and mutant nonamers containing the tetrapeptides common to the  complete  responders.</strong></li>
+</ol>
+<ul>
+<li data-line="4" class="code-line">
+<ol>
+<li data-line="4" class="code-line"><a href="http://www.cbs.dtu.dk/services/NetMHC/" data-href="http://www.cbs.dtu.dk/services/NetMHC/">NetMHC v3.4</a></li>
+</ol>
+</li>
+<li data-line="5" class="code-line">
+<ol start="2">
+<li data-line="5" class="code-line"><a href="http://imed.med.ucm.es/Tools/rankpep.html" data-href="http://imed.med.ucm.es/Tools/rankpep.html">RANKPEP</a></li>
+</ol>
+</li>
+</ul>
+</li>
+<li data-line="7" class="code-line">
+<ol start="3">
+<li data-line="7" class="code-line"><strong>assessed for similarity between nonamers that were predicted to be presented by patient-specific MHC Class I.</strong></li>
+</ol>
+<ul>
+<li data-line="8" class="code-line">
+<ol>
+<li data-line="8" class="code-line"><a href="http://weblogo.berkeley.edu/logo.cgi" data-href="http://weblogo.berkeley.edu/logo.cgi">Weblogo</a></li>
+</ol>
+</li>
+</ul>
+</li>
+<li data-line="10" class="code-line">
+<ol start="4">
+<li data-line="10" class="code-line"><strong>evaluated nonamers for putative binding to the T cell receptor</strong></li>
+</ol>
+<ul>
+<li data-line="11" class="code-line">
+<ol>
+<li data-line="11" class="code-line"><a href="http://tools.immuneepitope.org/mmunogenicity/" data-href="http://tools.immuneepitope.org/mmunogenicity/">IEDB immunogenicity predictor</a></li>
+</ol>
+</li>
+<li data-line="12" class="code-line">
+<ol start="2">
+<li data-line="12" class="code-line"><a href="http://www.imtech.res.in/raghava/ctlpred/" data-href="http://www.imtech.res.in/raghava/ctlpred/">CTLPred</a></li>
+</ol>
+</li>
+</ul>
+</li>
+<li data-line="14" class="code-line">
+<ol start="5">
+<li data-line="14" class="code-line"><strong>evaluate homology(conserved tetrapeptides) to known pathogens’ antigens</strong><br>
+tetrapeptides assessed as substrings of immunogens in the database for a positive T cell response in Homo sapiens host. Tetrapeptides were compared to known antigens using the functions “linear epitope,” “substring”,Homo sapiens host and positive assay result.</li>
+</ol>
+<ul>
+<li data-line="16" class="code-line">
+<ol>
+<li data-line="16" class="code-line"><a href="www.iedb.org" data-href="www.iedb.org">Immune Epitope Database</a></li>
+</ol>
+</li>
+</ul>
+</li>
+<li data-line="18" class="code-line">
+<ol start="6">
+<li data-line="18" class="code-line"><strong>the neoantigen landscape/signature analysis</strong></li>
+</ol>
+<ul>
+<li data-line="19" class="code-line">
+<ol>
+<li data-line="19" class="code-line">either the tetrapeptide occurred 3 or more times in discovery set benefiters and not in non-benefiters</li>
+</ol>
+</li>
+<li data-line="20" class="code-line">
+<ol start="2">
+<li data-line="20" class="code-line">or 2 times with resemblance to IEDB via the substring method described above</li>
+</ol>
+</li>
+<li data-line="21" class="code-line">
+<ol start="3">
+<li data-line="21" class="code-line">Of note, all tetrapeptides were located within a 9 amino acid stretch predicted to be presented by each patient’s HLA. (值得注意的是，所有的四肽都位于每个患者HLA预测的9个氨基酸的范围内。)</li>
+</ol>
+</li>
+<li data-line="22" class="code-line">
+<ol start="4">
+<li data-line="22" class="code-line">Hierarchical clustering of the tetrapeptide motifs is used to help identify the most frequent motifs in the discovery set responders.</li>
+</ol>
+</li>
+<li data-line="23" class="code-line">
+<ol start="5">
+<li data-line="23" class="code-line">Regression is used to order the tetrapeptides to confirm the ones that tracked most with clinical benefit. (<em><strong>This reduced the candidate tetrapeptides from 4,325 to 216. And hese 216 peptides represent a locked set from the discovery set.</strong></em>)</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+
+</body></html>

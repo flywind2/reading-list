@@ -1,5 +1,7 @@
 ***publications:***  
-1. Carreno BM, Magrini V, Becker-Hapak M, Kaabinejadian S, Hundal J, Petti AA, Ly A, Lie WR, Hildebrand WH, Mardis ER, Linette GP. Cancer immunotherapy. ***A dendritic cell vaccine increases the breadth and diversity of melanoma neoantigen-specific T cells***. Science. 2015 May 15;348(6236):803-8. doi: 10.1126/science.aaa3828. Epub 2015 Apr 2. PMID: 25837513; PMCID: PMC4549796.
+1. Carreno BM, Magrini V, Becker-Hapak M, Kaabinejadian S, Hundal J, Petti AA, Ly A, Lie WR, Hildebrand WH, Mardis ER, Linette GP. Cancer immunotherapy. ***A dendritic cell vaccine increases the breadth and diversity of melanoma neoantigen-specific T cells***. Science. 2015 May 15;348(6236):803-8. doi: 10.1126/science.aaa3828. Epub 2015 Apr 2. PMID: 25837513; PMCID: PMC4549796.  
+
+2. Snyder A, Makarov V, Merghoub T, Yuan J, Zaretsky JM, Desrichard A, Walsh LA, Postow MA, Wong P, Ho TS, Hollmann TJ, Bruggeman C, Kannan K, Li Y, Elipenahli C, Liu C, Harbison CT, Wang L, Ribas A, Wolchok JD, Chan TA. Genetic basis for clinical response to CTLA-4 blockade in melanoma. N Engl J Med. 2014 Dec 4;371(23):2189-2199. doi: 10.1056/NEJMoa1406498. Epub 2014 Nov 19. Erratum in: N Engl J Med. 2018 Nov 29;379(22):2185. PMID: 25409260; PMCID: PMC4315319. [link](https://www.nejm.org/doi/pdf/10.1056/NEJMoa1406498?articleTools=true)
 
 #
 
@@ -95,6 +97,12 @@ BMC Bioinformatics (2005) PMID: 15927070
 H. Rammensee, J. Bachmann, N. N. Emmerich, O. A. Bachor and S. Stevanovic  
 ***SYFPEITHI: database for MHC ligands and peptide motifs.***  
 Immunogenetics (1999) PMID: 10602881  
+
+**[RANKPEP](http://imed.med.ucm.es/Tools/rankpep.html)**  
+RANKPEP that uses position specific scoring matrices (PSSMs) or profiles for the prediction of peptide-MHC class I (MHCI) binding as a basis for CD8 T-cell epitope identification.  
+* Reche PA, Glutting JP and Reinherz EL Prediction of MHC Class I Binding Peptides Using Profile Motifs. Human Immunology 63, 701-709 (2002).  
+* Reche PA, Glutting JP, Zhang H, Reinherz EL.Enhancement to the RANKPEP resource for the prediction of peptide binding to MHC molecules using profiles. 456:405-419 (2004)  
+* Manoj Bhasin, Ellis L. Reinhez and Pedro A. Reche. Modeling features of immunodominance into T-cell epitope identification. 2nd International Immunoinformatics Symposium, Boston University, March 7-9, 2005.
 
 
 ***References about HLA supertypes***
