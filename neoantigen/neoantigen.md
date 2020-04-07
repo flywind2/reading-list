@@ -105,6 +105,11 @@ B. Peters, A. Sette
 ***Generating quantitative models describing the sequence specificity of biological processes with the stabilized matrix method.***  
 BMC Bioinformatics (2005) PMID: 15927070  
 
+**MULTIPRED2**  
+Zhang GL, DeLuca DS, Keskin DB, et al.   
+***MULTIPRED2: a computational system for large-scale identification of peptides predicted to bind to HLA supertypes and alleles.***   
+J Immunol Methods. 2011;374(1-2):53–61. doi:10.1016/j.jim.2010.11.009
+
 **SYFPEITHI**  
 H. Rammensee, J. Bachmann, N. N. Emmerich, O. A. Bachor and S. Stevanovic  
 ***SYFPEITHI: database for MHC ligands and peptide motifs.***  
@@ -114,7 +119,10 @@ Immunogenetics (1999) PMID: 10602881
 RANKPEP that uses position specific scoring matrices (PSSMs) or profiles for the prediction of peptide-MHC class I (MHCI) binding as a basis for CD8 T-cell epitope identification.  
 * Reche PA, Glutting JP and Reinherz EL Prediction of MHC Class I Binding Peptides Using Profile Motifs. Human Immunology 63, 701-709 (2002).  
 * Reche PA, Glutting JP, Zhang H, Reinherz EL.Enhancement to the RANKPEP resource for the prediction of peptide binding to MHC molecules using profiles. 456:405-419 (2004)  
-* Manoj Bhasin, Ellis L. Reinhez and Pedro A. Reche. Modeling features of immunodominance into T-cell epitope identification. 2nd International Immunoinformatics Symposium, Boston University, March 7-9, 2005.
+* Manoj Bhasin, Ellis L. Reinhez and Pedro A. Reche. Modeling features of immunodominance into T-cell epitope identification. 2nd International Immunoinformatics Symposium, Boston University, March 7-9, 2005.  
+
+**[ProPred](http://crdd.osdd.net/raghava/propred/) MHC Class-II Binding Peptide Prediction Server**  
+The aim of this server is to predict MHC Class-II binding regions in an antigen sequence, using quantitative matrices derived from published literature by Sturniolo et. al., 1999.  The server will assist in locating promiscuous binding regions that are useful in selecting vaccine candidates.
 
 
 ***References about HLA supertypes***
@@ -130,3 +138,7 @@ Immunogenetics (2004) PMID: 14963618
 J. Sidney, B. Peters, N. Frahm, C. Brander, and A. Sette  
 ***HLA class I supertypes: a revised and updated classification.***  
 BMC Immunology (2008) PMID: 18211710  
+
+Xie C, Yeo ZX, Wong M, et al.   
+***Fast and accurate HLA typing from short-read next-generation sequence data with xHLA.***  
+Proc Natl Acad Sci U S A. 2017;114(30):8059–8064. doi:10.1073/pnas.1707945114
