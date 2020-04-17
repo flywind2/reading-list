@@ -238,4 +238,16 @@ A Java 2D plotting library inspired by gnuplot
 
 [opencravat](https://run.opencravat.org/server/nocache/login.html),web server now available!  
 
-[https://2-bitbio.com/](https://2-bitbio.com/)
+[https://2-bitbio.com/](https://2-bitbio.com/)  
+
+---
+[DMB](http://dmb.iasi.cnr.it/software.php),Data Mining Big  is a set of data analysis tools.
+DMB contains a collection of software tools that perform knowledge extraction from data. The methods adopted are based on several models and algorithms that have been developed by a team of researchers, most of them members of the computational and system biology research group. The description of the methods is available in different papers listed in the publication page, while the code can be executed remotely from this website on the servers of IASI - CNR - a research institute of the Italian Research Council. Results are sent by email or visualized on the web interface.
+
+The methods adopted are based on several optimization models and algorithms. The algorithms used for the DMB System are highly accurated, efficient and innovative. Every single data is checked and examinated accurately by our analysis programs to guarantee an adeguate classification.
+
+The main characteristic of the DMB system is that it extracts knowledge in form of logic rules. DMB takes an input a matrix with the elements and their attributes, plus a class label for each element and related labels. Regardless of the form of the input data - rational or discrete numbers, qualitative attributes, binary or logic values, it always returns as output an explanation of the type if (X is in Ax) and (Y is in Ay) or (Z is in Az) then CLASS = C, where X, Y, Z are attributes of the elements, Ax (Ay, Az) are set of possible values that the attributes can take, and C is one of the classes in which the elements are partitioned.
+
+The different modules of DMB are composed to solve different types of classification problems. Each composition of modules that performs a complete analysis is called a "flow". In the software menu are listed the different flows currently implemented, and a more detailed explanation for their use.  
+
+---
