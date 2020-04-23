@@ -61,7 +61,11 @@ Online Materials: Somatic Mutations, Neoepitope Homology and Inflammation in Mel
 
 
 ###**17. Consequence calling**  
-The [BCFtools/csq](https://samtools.github.io/bcftools/howtos/csq-calling.html) command is a very fast program for haplotype-aware consequence calling which can take into account known phase. It avoids the common pitfall of existing predictors which analyze variants as isolated events and correctly predicts consequences for adjacent variants which alter the same codon or frame-shifting indels followed by a frame-restoring indels. List of plugins at [here](https://samtools.github.io/bcftools/howtos/plugins.html).
+The [BCFtools/csq](https://samtools.github.io/bcftools/howtos/csq-calling.html) command is a very fast program for haplotype-aware consequence calling which can take into account known phase. It avoids the common pitfall of existing predictors which analyze variants as isolated events and correctly predicts consequences for adjacent variants which alter the same codon or frame-shifting indels followed by a frame-restoring indels. List of plugins at [here](https://samtools.github.io/bcftools/howtos/plugins.html).  
+
+###**18. Kingsford-Group**  
+[Kingsford-Group](https://github.com/Kingsford-Group)  
+
 
 ##**Microsatellite instability**
 
