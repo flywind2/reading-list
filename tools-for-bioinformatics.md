@@ -221,7 +221,9 @@ OpenGenomics
 1. [DoCM,database of curated mutations](http://www.docm.info/)  
 2.  [TumorPortal](http://www.tumorportal.org/)  
 3.  [ICGC](https://dcc.icgc.org/)  
-4.  [Atlas of Genetics and Cytogenetics in Oncology and Haematology](http://atlasgeneticsoncology.org/index.html)
+4.  [Atlas of Genetics and Cytogenetics in Oncology and Haematology](http://atlasgeneticsoncology.org/index.html)  
+5.  [Genes-Drugs](https://cpicpgx.org/genes-drugs/),CPIC assigns CPIC levels to genes/drugs with (1) PharmGKB Clinical Annotation Levels of Evidence of 1A, 1B, 2A and 2B, or (2) a PharmGKB PGx level for FDA-approved drug labels of “actionable pgx”, “genetic testing recommended”, or “genetic testing required”, or (3) based on nomination to CPIC for consideration.  
+6.  
 
 ### **Real Time Genomics**  
 **rtg-tools**  
